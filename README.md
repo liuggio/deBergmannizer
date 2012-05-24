@@ -18,3 +18,10 @@ $ sudo ./deBergmannize.sh "IF THE TESTS FAIL, IS ONLY MY FAULT"
 
 This script come without warranties, 
 I love PhpUnit and I use it everyday.
+
+
+
+##TODO
+
+A patch with `diff`
+Conquer the world.
