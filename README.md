@@ -23,5 +23,6 @@ I love PhpUnit and I use it everyday.
 
 ##TODO
 
-A patch with `diff`
-Conquer the world.
+1. A patch with `diff`
+
+2. Conquer the world.
