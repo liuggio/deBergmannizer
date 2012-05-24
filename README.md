@@ -7,12 +7,13 @@ Please help me to improve the algorithm.
 
 ## Usage
 
-1. Run the script as root.
 
 ```bash
 $ wget https://raw.github.com/liuggio/deBergmannizer/master/deBergmannize.sh
 $ chmod +x deBergmannize.sh
-$ sudo ./deBergmannize.sh "IF THE TESTS FAIL, IS ONLY MY FAULT"
+# BE CAREFUL IS NOT REVERSIBLE!!
+# run as root
+$ ./deBergmannize.sh "IF THE TESTS FAIL, IS ONLY MY FAULT"
 ```
 
 
@@ -23,6 +24,8 @@ I love PhpUnit and I use it everyday.
 
 ##TODO
 
-1. A patch with `diff`
+1. A patch with `diff` instead `sad`
 
-2. Conquer the world.
+2. A ReBergmanizzer (restore)
+
+3. Conquer the world.
