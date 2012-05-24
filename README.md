@@ -6,8 +6,8 @@ Please help me to improve the algorithm.
 
 
 ## Usage
-1. Get the [latest version of the install script](https://gist.github.com/922144).
-2. Run the script as root.
+
+1. Run the script as root.
 
 ```bash
 $ wget https://raw.github.com/liuggio/deBergmannizer/master/deBergmannize.sh
