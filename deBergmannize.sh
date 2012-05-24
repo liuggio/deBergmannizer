@@ -47,8 +47,9 @@ then
     exit $E_FILENOTFOUND
 else	
     echo "File Found ..."
-    sed -i "s/$STRREPLACE/$1/g" $BPATH
     echo "de-Bergmannizing yourself"
+    sed -i "s/$STRREPLACE/$1/g" $BPATH
+    echo "done"
 fi
 
 
