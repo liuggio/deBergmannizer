@@ -27,7 +27,7 @@ EOF
 
 
 if [[ $EUID -ne 0 ]]; then
-   echo "To debermannize yourself you have to be root";
+   echo "To debergmannize yourself you have to be root";
    echo "this file $FILE need the root previlege, Aborting"
    echo "YOU ARE STILL BERGMANNIZED."
    exit 1;
