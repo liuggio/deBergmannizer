@@ -29,3 +29,9 @@ I love PhpUnit and I use it everyday.
 2. A ReBergmanizzer (restore)
 
 3. Conquer the world.
+
+## Contributors
+
+- [proudlygeek] (https://github.com/proudlygeek) Invented the name
+
+- [giorrrgio] (https://github.com/giorrrgio) bugfixes
