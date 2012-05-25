@@ -24,7 +24,7 @@ I love PhpUnit and I use it everyday.
 
 ##TODO
 
-1. A patch with `diff` instead `sad`
+1. A patch with `diff` instead sed
 
 2. A ReBergmanizzer (restore)
 
